@@ -3,6 +3,8 @@ Ruby 2.0 introduces "Refinements". No one knows what problem they solve or how
 they work. This gem removes them.
 
 == How to use
+    gem install unrefine  
+  
     require 'unrefine'
 
 == Contributing
