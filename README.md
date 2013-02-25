@@ -1,16 +1,16 @@
-= Unrefine
+# Unrefine
 Ruby 2.0 introduces "Refinements". No one knows what problem they solve or how
 they work. This gem removes them.
 
-== How to use
+## How to use
     gem install unrefine  
   
     require 'unrefine'
 
-== Contributing
+## Contributing
 Do not contribute to this project.
 
-== License
+## License
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
 
