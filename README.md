@@ -7,6 +7,12 @@ they work. This gem removes them.
   
     require 'unrefine'
 
+## Apology
+I don't understand what "Refinements" do, nor what they are supposed to do.
+For this reason, and because I am very very lazy, I have not been able to 
+write any tests for this gem. I guarantee that some things will be different
+after requiring this gem, but make no further claims about its value.
+
 ## Contributing
 Do not contribute to this project.
 
