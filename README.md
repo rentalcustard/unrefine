@@ -1,6 +1,6 @@
 # Unrefine
 Ruby 2.0 introduces "Refinements". No one knows what problem they solve or how
-they work. This gem removes them.
+they work. This gem removes them. Probably.
 
 ## How to use
     gem install unrefine  
