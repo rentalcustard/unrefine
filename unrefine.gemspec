@@ -1,5 +1,3 @@
-require 'matahari/version'
-
 Gem::Specification.new do |s|
   s.name = 'unrefine'
   s.version = "1.0.0"
